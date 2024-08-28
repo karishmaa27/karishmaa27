@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karishmaa27 and i am a beginner.
-- 👀 I’m interested in web and mobile application development.
-- 🌱 I’m currently learning c++.
+- 👋 Hi, I’m @karishmaa27 and i am CSE final year student.
+- 👀 I’m interested in machine learning and data analysis.
+- 🌱 I’m currently learning machine learning.
 - 💞️ I want to learn how to make projects and also want to explore the coding world!
 
 <!---
